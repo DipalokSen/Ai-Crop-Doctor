@@ -98,7 +98,7 @@ The system combines:
 ## 🎥 Project Demo
 
 📺 **YouTube Demo Link:**  
-👉 https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+👉  https://youtu.be/90OvoeFA8eE
 
 ---
 ## ⚙ Installation & Setup
